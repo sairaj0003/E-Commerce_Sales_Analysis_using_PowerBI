@@ -15,19 +15,19 @@
 ## Proposed Solution
 In response to the challenges outlined in the problem statement, we propose a comprehensive and scalable solution that leverages Power BI for E-commerce Sales Analysis. This solution is designed to empower our organization with actionable insights, real-time monitoring, and enhanced decision-making capabilities.
 
-**Data Integration:**
+- **Data Integration:**
 Utilize Power BI to seamlessly integrate diverse e-commerce data sources, including customer transactions, website interactions, and inventory details, into a unified and structured dataset.
 
-**Real-time Dashboards:**
+- **Real-time Dashboards:**
 Develop interactive and visually compelling dashboards within Power BI for real-time monitoring of key performance indicators (KPIs) such as sales, inventory levels, and customer engagement.
 
-**Customer Segmentation:**
+- **Customer Segmentation:**
 Implement advanced analytics within Power BI to segment customers based on demographics, purchasing behavior, and preferences. Create dynamic customer groups for targeted marketing strategies.
 
-**Sales Performance Analysis:**
+- **Sales Performance Analysis:**
 Utilize Power BI's analytical capabilities to conduct in-depth sales performance analysis. Identify top-performing products, assess the impact of marketing campaigns, and uncover trends driving sales.
 
-**User-Friendly Interface:**
+- **User-Friendly Interface:**
 Design intuitive and user-friendly dashboards and reports within Power BI, ensuring accessibility for both technical and non-technical users. Empower users to create custom reports tailored to their specific needs.
 
 ## Dashboard
